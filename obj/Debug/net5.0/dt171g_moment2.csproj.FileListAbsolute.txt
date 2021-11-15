@@ -1,0 +1,15 @@
+/Applications/MAMP/htdocs/TWEUG/dt171g_moment2/obj/Debug/net5.0/dt171g_moment2.csproj.AssemblyReference.cache
+/Applications/MAMP/htdocs/TWEUG/dt171g_moment2/obj/Debug/net5.0/dt171g_moment2.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/MAMP/htdocs/TWEUG/dt171g_moment2/obj/Debug/net5.0/dt171g_moment2.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/TWEUG/dt171g_moment2/obj/Debug/net5.0/dt171g_moment2.AssemblyInfo.cs
+/Applications/MAMP/htdocs/TWEUG/dt171g_moment2/obj/Debug/net5.0/dt171g_moment2.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/TWEUG/dt171g_moment2/bin/Debug/net5.0/dt171g_moment2.deps.json
+/Applications/MAMP/htdocs/TWEUG/dt171g_moment2/bin/Debug/net5.0/dt171g_moment2.runtimeconfig.json
+/Applications/MAMP/htdocs/TWEUG/dt171g_moment2/bin/Debug/net5.0/dt171g_moment2.runtimeconfig.dev.json
+/Applications/MAMP/htdocs/TWEUG/dt171g_moment2/bin/Debug/net5.0/dt171g_moment2.dll
+/Applications/MAMP/htdocs/TWEUG/dt171g_moment2/bin/Debug/net5.0/ref/dt171g_moment2.dll
+/Applications/MAMP/htdocs/TWEUG/dt171g_moment2/bin/Debug/net5.0/dt171g_moment2.pdb
+/Applications/MAMP/htdocs/TWEUG/dt171g_moment2/obj/Debug/net5.0/dt171g_moment2.dll
+/Applications/MAMP/htdocs/TWEUG/dt171g_moment2/obj/Debug/net5.0/ref/dt171g_moment2.dll
+/Applications/MAMP/htdocs/TWEUG/dt171g_moment2/obj/Debug/net5.0/dt171g_moment2.pdb
+/Applications/MAMP/htdocs/TWEUG/dt171g_moment2/obj/Debug/net5.0/dt171g_moment2.genruntimeconfig.cache

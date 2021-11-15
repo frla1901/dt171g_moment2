@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "dt171g_moment2/1.0.0": {
+        "runtime": {
+          "dt171g_moment2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dt171g_moment2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

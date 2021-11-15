@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/frida/.dotnet/store/|arch|/|tfm|",
+      "/Users/frida/.nuget/packages"
+    ]
+  }
+}
