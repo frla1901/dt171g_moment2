@@ -23,21 +23,32 @@ Skapade en ny applikationsmall liknade förra momentet och påbörjade arbetet m
 ZellerAlgoritm(1977, 05, 07);
 
 **frida@MacBook-Pro dt171g_moment2 % dotnet run**
+
 **Det var en lördag**
+
 **frida@MacBook-Pro dt171g_moment2 %** 
 
 Därefter började jag arbetet med att säkerställa att datumet som matats in var ett giltigt datum. För att testa detta så justerade jag metoden, _Main_ med en if/else sats.
 
 if (isValidDate(1977,05,07)) 
-    {
-       Console.WriteLine("Korrekt inmatat datum");
-        ZellerAlgoritm(1977, 05, 07);
-    }
+
+{
+
+Console.WriteLine("Korrekt inmatat datum");
+
+ZellerAlgoritm(1977, 05, 07);
+
+}
+
 else
-       Console.WriteLine("Tyvärr var detta inte ett giltigt datum! Skriv datumet i formatet ÅÅÅÅ,MM,DD")
+       
+Console.WriteLine("Tyvärr var detta inte ett giltigt datum! Skriv datumet i formatet ÅÅÅÅ,MM,DD")
 
 **frida@MacBook-Pro dt171g_moment2 % dotnet run**
+
 **Korrekt inmatat datum**
+
 **Det var en lördag**
+
 **frida@MacBook-Pro dt171g_moment2 %** 
 
