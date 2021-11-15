@@ -20,7 +20,7 @@ Gick igenom [Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/fund
 ##### Inmatat datum visar vilken veckodag det var.
 Skapade en ny applikationsmall liknade förra momentet och påbörjade arbetet med klassen WeekDay. Metoden ZellerAlgoritm fungerade med enkel input data vilket jag testade först i metoden, _Main_. 
 
-ZellerAlgoritm(1977, 05, 07);
+ZellerAlgoritm(1977,05,07);
 
 **frida@MacBook-Pro dt171g_moment2 % dotnet run**
 
@@ -36,7 +36,7 @@ if (isValidDate(1977,05,07))
 
 Console.WriteLine("Korrekt inmatat datum");
 
-ZellerAlgoritm(1977, 05, 07);
+ZellerAlgoritm(1977,05,07);
 
 }
 
@@ -51,4 +51,3 @@ Console.WriteLine("Tyvärr var detta inte ett giltigt datum! Skriv datumet i for
 **Det var en lördag**
 
 **frida@MacBook-Pro dt171g_moment2 %** 
-
