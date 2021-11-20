@@ -130,18 +130,30 @@ namespace dt171g_moment2
         // metod för kontroll av datum samt utskrift till konsollen
         public static void Main(string[] args)
         {
+            /* Inmatade värden från kommandotolken/terminal. 
+            * Strängarna för år, månad & dag konverteras till integers med hjälp av int.Parse. 
+            */
+            Console.WriteLine($"{Environment.NewLine}Vilket år är du född? (ÅÅÅÅ) ");
+            int year = int.Parse(Console.ReadLine());
+            Console.WriteLine("Vilken månad är du född? (MM)");
+            int month = int.Parse(Console.ReadLine());
+            Console.WriteLine("Vilket dag är du född? (DD)");
+            int day = int.Parse(Console.ReadLine());
+            
             // Validering av inmatat datum 
-            // OBS! byt ut datum och testa om det är giligt eller inte
-            if (isValidDate(1977, 05, 07))
+            // OBS! byt datum och testa om det är giligt eller inte
+            if (isValidDate(year, month, day))
             {
-                Console.WriteLine("Korrekt inmatat datum");
+                Console.WriteLine($"{Environment.NewLine}Korrekt inmatat datum");
 
                 // Utskrift av vilken veckodag det var 
-                ZellerAlgoritm(1977, 05, 07);
+                ZellerAlgoritm(year, month, day);
             }
             // Om inte korrekt inmatat datum - Felmeddelande
             else
                 Console.WriteLine("Tyvärr är inte ett giltigt datum! Skriv datumet i formatet ÅÅÅÅ,MM,DD");
+                Console.Write($"{Environment.NewLine}Tryck på valfri tangent.");
+                Console.ReadKey(true);
         }
 
     }
