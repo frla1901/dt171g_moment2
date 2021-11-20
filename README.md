@@ -51,3 +51,35 @@ Console.WriteLine("Tyvärr var detta inte ett giltigt datum! Skriv datumet i for
 **Det var en lördag**
 
 **frida@MacBook-Pro dt171g_moment2 %** 
+
+#### Justeringar 
+Justerade den första inlämnade versionen enligt information om inmatat värde = inmatat i kommandotolken/terminal. Missuppfattade uppgiften och hårdkodade in värden istället för att låta användaren göra det själv. 
+
+Valde justera _Main_ metoden genom att skapa 3 olika frågor i terminalen så att användaren skriver in: 
+1. år
+2. månad 
+3. dag
+
+Dessa konverteras till intgers year, month & day genom int.Parse och därefter datumets kontrolleras validitet innan ZellerAlgoritm körs. Se nedan kod som är den justerade versionen! 
+
+**frida@MacBook-Pro dt171g_moment2 % dotnet run**
+
+**Vilket år är du född? (ÅÅÅÅ)** 
+
+**1977**
+
+**Vilken månad är du född? (MM)**
+
+**05**
+
+**Vilket dag är du född? (DD)**
+
+**07**
+
+**Korrekt inmatat datum**
+
+**Det var en lördag**
+
+**Tryck på valfri tangent.**                                                                
+
+**frida@MacBook-Pro dt171g_moment2 %**
